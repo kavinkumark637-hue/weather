@@ -24,4 +24,6 @@ Responsive UI design
 
 **Technologies Used**
 HTML, CSS, JavaScript, OpenWeatherMap API
+
 **Live Website:**
+https://weather-kavin4.vercel.app/
