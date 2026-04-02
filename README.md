@@ -23,7 +23,13 @@ Real-time date and time display
 Responsive UI design
 
 **Technologies Used**
-HTML, CSS, JavaScript, OpenWeatherMap API
+HTML for structuring the webpage
+
+CSS for styling and layout
+
+JavaScript for functionality and logic
+
+OpenWeatherMap API for fetching live weather data
 
 **Live Website:**
 https://weather-kavin4.vercel.app/
