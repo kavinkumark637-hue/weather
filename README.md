@@ -23,6 +23,7 @@ Real-time date and time display
 Responsive UI design
 
 **Technologies Used**
+
 HTML for structuring the webpage
 
 CSS for styling and layout
